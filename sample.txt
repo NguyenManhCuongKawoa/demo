@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 đây là đề mô sử dụng git 
 thêm thay đổi ở đây
+=======
+đây là đề mô sử dụng git
+do Nguyễn Mạnh Cường sửa đổi 
+>>>>>>> fcc7f092e7a1200f1de75faa816b299380aa1c4c
