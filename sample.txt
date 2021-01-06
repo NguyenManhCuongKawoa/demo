@@ -1,1 +1,2 @@
-đây là đề mô sử dụng git 
+đây là đề mô sử dụng git
+do Nguyễn Mạnh Cường sửa đổi 
